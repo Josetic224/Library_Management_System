@@ -1,4 +1,4 @@
-# Library Management System API (TypeScript)
+# Library Management System API
 
 A RESTful API for a library management system built with TypeScript, Node.js, Express, and MongoDB.
 
